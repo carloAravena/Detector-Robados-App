@@ -1,0 +1,1 @@
+// App localizations logic
